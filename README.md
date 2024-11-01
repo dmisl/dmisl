@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Dima</h1>
-<h3 align="center">A passionate full-stack web-developer from Poland</h3>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmisl&rank=-?" alt="dmisl" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel, Vue.js**
 
 - 💬 Ask me about **PHP, MySQL or JS**
 
-- 📫 How to reach me **rithlesscorp@gmail.com**
+- 📫 How to reach me **fdmisl07@gmail.com**
 
 - 📄 Know about my experiences BirdyWing, EnglishTime
 
