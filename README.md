@@ -1,6 +1,6 @@
 <div style="display: flex; gap: 5px; justify-content: end;">
-<img style="height: 160px;" src="https://github-readme-streak-stats.herokuapp.com/?user=dmisl&theme=jolly&hide_border=true">
-<img style="height: 160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmisl&theme=jolly&show_icons=true&hide_border=true&layout=compact">
+<img style="height: 165px;" src="https://github-readme-streak-stats.herokuapp.com/?user=dmisl&theme=jolly&hide_border=true">
+<img style="height: 165px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmisl&theme=jolly&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 ### Projects / Applications
