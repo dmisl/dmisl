@@ -1,6 +1,7 @@
-<p style="text-align: center; width: 100%;">
-<img src="https://github-profile-trophy.vercel.app/?username=dmisl&theme=radical&title=-Reviews&margin-w=5&column=7">
-</p>
+<div style="display: flex; gap: 5px; justify-content: end;">
+<img style="height: 160px;" src="https://github-readme-streak-stats.herokuapp.com/?user=dmisl&theme=jolly&hide_border=true">
+<img style="height: 160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmisl&theme=jolly&show_icons=true&hide_border=true&layout=compact">
+</div>
 
 ### Projects / Applications
 
@@ -20,7 +21,6 @@
 | Bootstrap | Reverb | Figma |
 | Axios | PostgreSQL | Postman |
 
-<div style="display: flex; gap: 5px; justify-content: end;">
-<img style="height: 195px;" src="https://github-readme-streak-stats.herokuapp.com/?user=dmisl&theme=jolly&hide_border=true">
-<img style="height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmisl&theme=jolly&show_icons=true&hide_border=true&layout=compact">
-</div>
+<p style="text-align: center; width: 100%;">
+<img src="https://github-profile-trophy.vercel.app/?username=dmisl&theme=radical&title=-Reviews&margin-w=5&column=7">
+</p>
