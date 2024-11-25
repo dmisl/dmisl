@@ -11,6 +11,8 @@
 | [dynamitowy](https://github.com/dmisl/dynamitowy) | Copy of a real school e-journal with basic functionality provided using Web-Sockets. | Laravel, Vue.js, Laravel Reverb  |
 | [english-time](https://github.com/dmisl/english-time) | A simple platform for learning English with different types of tasks, roles, and assessments. | PHP, JavaScript |
 
+- **[laravel-quick-start](https://github.com/dmisl/laravel-quick-start)**: A one-command utility for setting up Laravel applications quickly. 
+
 ### My Tech-Stack
 
 | Front-end | Back-end | DevOps / Tools |
